@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="order point state transition.png">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3919"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="372.04724"
+     inkscape:cy="766.18109"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6428"
+       transform="translate(28,82)">
+      <g
+         transform="translate(-12,-62)"
+         id="g3759">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985"
+           width="95.609802"
+           height="44.553787"
+           x="316.03882"
+           y="124.43793"
+           ry="16"
+           rx="16" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.21973"
+           y="151.40378"
+           id="text3755"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3757"
+             x="363.21973"
+             y="151.40378">Принят</tspan></text>
+      </g>
+      <g
+         id="g3759-3"
+         transform="translate(107.15628,245.64736)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985-6"
+           width="183.6098"
+           height="44.553787"
+           x="271.03882"
+           y="124.43793"
+           ry="16"
+           rx="15.999999" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.21973"
+           y="151.40378"
+           id="text3755-7"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3757-5"
+             x="363.21973"
+             y="151.40378">Ожидает оплаты</tspan></text>
+      </g>
+      <g
+         id="g3759-3-3"
+         transform="translate(-218.84372,49.64736)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985-6-5"
+           width="129.6098"
+           height="44.553787"
+           x="300.03882"
+           y="124.43793"
+           ry="16"
+           rx="15.999999" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.21973"
+           y="151.40378"
+           id="text3755-7-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3757-5-2"
+             x="363.21973"
+             y="151.40378">В обработке</tspan></text>
+      </g>
+      <g
+         id="g3759-9"
+         transform="translate(-168.84372,241.64736)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985-1"
+           width="95.609802"
+           height="44.553787"
+           x="316.03882"
+           y="124.43793"
+           ry="16"
+           rx="16" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.21973"
+           y="151.40378"
+           id="text3755-2"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3757-7"
+             x="363.21973"
+             y="151.40378">Готов</tspan></text>
+      </g>
+      <g
+         id="g3759-9-0"
+         transform="translate(-9.84372,403.64736)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985-1-9"
+           width="95.609802"
+           height="44.553787"
+           x="316.03882"
+           y="124.43793"
+           ry="16"
+           rx="16" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.21973"
+           y="151.40378"
+           id="text3755-2-3"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3757-7-6"
+             x="363.21973"
+             y="151.40378">Закрыт</tspan></text>
+      </g>
+      <g
+         id="g3759-9-06"
+         transform="translate(174.15628,46.64736)">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.70866144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect2985-1-2"
+           width="95.609802"
+           height="44.553787"
+           x="316.03882"
+           y="124.43793"
+           ry="16"
+           rx="16" />
+        <text
+           xml:space="preserve"
+           style="font-size:18px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+           x="363.21973"
+           y="151.40378"
+           id="text3755-2-6"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3757-7-1"
+             x="363.21973"
+             y="151.40378">Отменён</tspan></text>
+      </g>
+      <path
+         inkscape:connection-end-point="d4"
+         inkscape:connection-end="#g3759-3-3"
+         inkscape:connection-start-point="d4"
+         inkscape:connection-start="#g3759"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path3910"
+         d="M 313.40289,105.5647 187.0718,174.08529"
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:connection-end-point="d4"
+         inkscape:connection-end="#g3759-9"
+         inkscape:connection-start-point="d4"
+         inkscape:connection-start="#g3759-3-3"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path4356"
+         d="m 151.68525,218.63907 37.6295,147.44622"
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:connection-end-point="d4"
+         inkscape:connection-end="#g3759-3"
+         inkscape:connection-start-point="d4"
+         inkscape:connection-start="#g3759-9"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path4540"
+         d="m 242.8049,389.05752 135.3902,1.96932"
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:connection-end-point="d4"
+         inkscape:connection-end="#g3759-9-0"
+         inkscape:connection-start-point="d4"
+         inkscape:connection-start="#g3759-3"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path4724"
+         d="M 453.64481,414.63907 370.35519,528.08529"
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:connection-end-point="d4"
+         inkscape:connection-end="#g3759-9-06"
+         inkscape:connection-start-point="d4"
+         inkscape:connection-start="#g3759"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path5824"
+         d="m 388.65467,106.19899 112.53438,65.67903"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:connection-start="#g3759-3"
+         inkscape:connection-start-point="d4"
+         inkscape:connection-end="#g3759-9-06"
+         inkscape:connection-end-point="d4"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path6008"
+         d="M 477.6122,370.08529 530.38779,215.63907"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+      <path
+         inkscape:connection-end-point="d4"
+         inkscape:connection-end="#g3759"
+         inkscape:connector-curvature="0"
+         inkscape:connector-type="polyline"
+         id="path6192"
+         d="M 352,3.3621826 351.88651,62.437927"
+         style="fill:none;stroke:#000000;stroke-width:0.99921262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Lend)" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6376"
+         y="35.362183"
+         x="480"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="35.362183"
+           x="480"
+           id="tspan6378"
+           sodipodi:role="line">Официант принимает заказ</tspan><tspan
+           id="tspan6398"
+           y="55.362183"
+           x="480"
+           sodipodi:role="line">и подтверждает его</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6386"
+         y="121.36218"
+         x="515"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="121.36218"
+           x="515"
+           id="tspan6388"
+           sodipodi:role="line">Официант отменяет</tspan><tspan
+           id="tspan6390"
+           y="141.36218"
+           x="515"
+           sodipodi:role="line">пункт заказа</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6392"
+         y="106.36218"
+         x="180"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="106.36218"
+           x="180"
+           id="tspan6394"
+           sodipodi:role="line">Повар начинает</tspan><tspan
+           id="tspan6396"
+           y="126.36218"
+           x="180"
+           sodipodi:role="line">выполнение пункта</tspan><tspan
+           id="tspan6408"
+           y="146.36218"
+           x="180"
+           sodipodi:role="line">заказа</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6400"
+         y="279.36218"
+         x="85"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="279.36218"
+           x="85"
+           id="tspan6402"
+           sodipodi:role="line">Повар завершил</tspan><tspan
+           id="tspan6404"
+           y="299.36218"
+           x="85"
+           sodipodi:role="line">выполнение пункта</tspan><tspan
+           id="tspan6406"
+           y="319.36218"
+           x="85"
+           sodipodi:role="line">заказа</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6410"
+         y="338.36218"
+         x="319"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="338.36218"
+           x="319"
+           id="tspan6412"
+           sodipodi:role="line">Официант доставил</tspan><tspan
+           id="tspan6414"
+           y="358.36218"
+           x="319"
+           sodipodi:role="line">пункт заказа</tspan><tspan
+           id="tspan6416"
+           y="378.36218"
+           x="319"
+           sodipodi:role="line">посетителю</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6418"
+         y="275.36218"
+         x="597"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="275.36218"
+           x="597"
+           id="tspan6420"
+           sodipodi:role="line">Клиент недоволен</tspan><tspan
+           id="tspan6422"
+           y="295.36218"
+           x="597"
+           sodipodi:role="line">заказом</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6424"
+         y="483.36218"
+         x="525"
+         style="font-size:16px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="483.36218"
+           x="525"
+           id="tspan6426"
+           sodipodi:role="line">Клиент оплатил заказ</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="378"
+       y="53.362183"
+       id="text6484"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6486"
+         x="378"
+         y="53.362183">Схема смен состояния пункта заказа</tspan></text>
+  </g>
+</svg>
