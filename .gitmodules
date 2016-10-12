@@ -1,0 +1,6 @@
+[submodule "cafe-server"]
+	path = cafe-server
+	url = git@github.com:MMM2017/cafe-server.git
+[submodule "cafe-client"]
+	path = cafe-client
+	url = git@github.com:MMM2017/cafe-client.git
