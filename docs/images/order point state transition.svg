@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="order point state transition.png">
+   sodipodi:docname="order point state transition.svg">
   <defs
      id="defs4">
     <marker
@@ -38,11 +38,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="0.58249908"
      inkscape:cx="372.04724"
-     inkscape:cy="766.18109"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6428"
      showgrid="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -57,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -381,7 +381,7 @@
            id="tspan6422"
            y="295.36218"
            x="597"
-           sodipodi:role="line">заказом</tspan></text>
+           sodipodi:role="line">пунктом заказа</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text6424"
