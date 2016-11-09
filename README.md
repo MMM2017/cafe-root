@@ -2,6 +2,41 @@
 
 A root repo for cafe project. Contains server and client as submodules.
 
+**Please notice**: it's our mistake. Let's create issues for backend in `cafe-server` repo
+and issues for frontend in `cafe-client`. It's important because otherwise we would not be
+able to reference to issues and commits inside comments and commit messages.
+
+## How do I Update This Stuff?
+
+To update submodule to its latest stable version, you need to:
+
+```bash
+cd <module_name>
+git pull origin master
+git checkout master
+cd ..
+```
+
+**OR**
+
+```bash
+bash UATS.sh <module_name>
+```
+
+For example, to get latest stable version of server repo:
+
+```bash
+bash UATS.sh cafe-server
+```
+
+If everything is ok, it will show you word 'Done' at the end of output.
+If not, try to use the 1st option and manually control what's happening.
+
+## For ones who merge everything to master
+
+After every significant merge, please, commit also in root repo, to deliver
+the latest version to all your comrades.
+
 ## How do I Clone It?
 
 This repo contains submodules, so cloning procedure differs a bit from a regular one.
@@ -22,8 +57,6 @@ git submodule update
 After these actions, you will have `cafe-server` and `cafe-client` repos located in `cafe-server` and `cafe-client` directories respectively. `cd` into them to ensure that they have been properly initialized.
 
 **Remember** that now you don't need to clone `cafe-server` and `cafe-client`, they are already on your machine.
-
-**Remember** also that you should make no changes in this root repo until it's realy needed and has been discussed. Do your commits in submodules only.
 
 ## Troubleshooting
 
